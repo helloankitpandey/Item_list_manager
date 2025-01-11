@@ -1,0 +1,87 @@
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Container Styles */
+.container {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+}
+
+/* Input and Button Styles */
+.input-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.input-field {
+  flex: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.add-button {
+  background-color: #28a745;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.add-button:hover {
+  background-color: #218838;
+}
+
+/* List Styles */
+.item-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-item {
+  text-align: left;
+  background-color: #f1f3f5;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 1px solid #ced4da;
+}
+
+/* Header styles with logo */
+.app-header {
+  background-color: #343a40;
+  width: 100%;
+  padding: 15px;
+  color: white;
+  text-align: center;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px; /* Space between logo and text */
+}
+
+.app-logo {
+  width: 40px; /* Adjust logo size */
+  height: 40px;
+  object-fit: cover; /* Ensure the image fits well */
+  border-radius: 50%; /* Optional: Make the logo circular */
+}
