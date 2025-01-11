@@ -1,8 +1,10 @@
 # Getting Started Item_list_Manager App
 
+# Before Any Updation in list(empty list)
 ![image alt](https://github.com/helloankitpandey/Item_list_manager/blob/66d200fc797acf138d067510aec00082ce3832bb/Screenshot%202025-01-11%20160426.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# After Second Item Added
+![image alt](https://github.com/helloankitpandey/Item_list_manager/blob/a82fb47cf42b145b98aa8e7ec5386080731daebf/Screenshot%202025-01-11%20160443.png)
 
 ## Available Scripts
 
