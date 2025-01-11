@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started Item_list_Manager App
+
+![image alt] (https://github.com/helloankitpandey/Item_list_manager/blob/66d200fc797acf138d067510aec00082ce3832bb/Screenshot%202025-01-11%20160426.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
